@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/aryan-maurya-29934b231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-maurya-29934b231" height="30" width="40" /></a>
 <a href="https://instagram.com/aryanzmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryanzmaurya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/am1623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="am1623" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sm2558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sm2558" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
