@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **D1V1DEE/D1V1DEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
